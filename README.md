@@ -1,8 +1,3 @@
-Jacob Trzcinski
-CS 614
-Lab 2
-Dr. Adam Blumenthal
-
 So my code definitely is not user friendly, not even to myself so I will do my best to explain it to you, 
 but no promises that anything will work. If I had more time and experience, I would have made the variables
 I changed into input variables so you could just write in what they are but I did not have the foresight
